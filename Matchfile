@@ -1,0 +1,6 @@
+# Replace with git repository
+git_url("git@gitlab.com:company/ios/certificates.git")
+# Replace with iTunes Connect username
+username("ios.development@company.com")
+# Replace app bundle indetifier
+app_identifier("com.company.starter")
